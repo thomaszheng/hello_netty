@@ -1,0 +1,14 @@
+asspath
+*.class
+.project
+.settings/
+target/
+logs/
+*.log
+*.iml
+*.ipr
+*.iws
+.idea/
+work/
+output/
+.DS_Store
